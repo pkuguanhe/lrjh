@@ -32,6 +32,6 @@
 2. 如果觉得本免费软件已经帮助到了您，请及时给予作者适当的鼓励，您的鼓励是作者继续优化开发下一版本的动力！
 3. 本软件不会对用户进行任何流氓式捆绑、升级，永久免费。同时请不要相信本软件出现的任何广告。
 
-微信打赏作者
 
-![](https://github.com/LazyBoy123/lrjh/blob/master/img/use/ds1.jpg)
+
+![](https://github.com/LazyBoy123/lrjh/blob/master/img/use/ds2.jpg)
