@@ -1,7 +1,9 @@
 # lrjh
-懒人江湖 - 苟咸鱼以日常v1.0.2唯一下载渠道-解放双手，享受游戏乐趣
+懒人江湖 - 苟咸鱼以日常v1.0.3唯一下载渠道-解放双手，享受游戏乐趣
 
 ## 开发版本
+懒人江湖 - 苟咸鱼以日常v1.0.3[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E6%87%92%E4%BA%BA%E6%B1%9F%E6%B9%96%20-%20%E8%8B%9F%E5%92%B8%E9%B1%BC%E4%BB%A5%E6%97%A5%E5%B8%B8v1.0.3.exe)] 2020/03/07 01:56发布 
+
 懒人江湖 - 苟咸鱼以日常v1.0.2[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E8%8B%9F%E5%92%B8%E9%B1%BC%E4%BB%A5%E6%97%A5%E5%B8%B8v1.0.2.exe)] 2020/03/06 18:30发布 
 
 懒人江湖 - 一梦江湖免费辅助V1.0.1[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E6%87%92%E4%BA%BA%E6%B1%9F%E6%B9%96%20-%20%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9V1.0.1.exe)] 2020/03/06 11:00发布
@@ -11,13 +13,21 @@
 ## 更新说明
 
 “懒人江湖 - 一梦江湖免费辅助V1.0.1” 正式更名为 “懒人江湖 - 苟咸鱼以日常v1.0.2”
-
+#### v1.0.3更新
+1. 优化小地图点击方式
+2. 优化论剑匹配
+3. 修改蹲摆摊、蹲集市代码
+#### v1.0.2更新
 本次更新优化代码质量，加入模拟手动代码，优化用户体验
 
 ## 使用说明
-懒人江湖V1.0.1[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
+- 懒人江湖V1.0.3[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]（改动不大）
 
-懒人江湖V1.0.2[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]（改动不大）
+- 懒人江湖V1.0.2[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
+
+- 懒人江湖V1.0.1[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
+
+
 
 ## 常见问题
 [在github使用说明页面看不到图片？ ](https://github.com/LazyBoy123/lrjh/blob/master/post/%E7%9C%8B%E4%B8%8D%E5%88%B0github%E7%9A%84%E5%9B%BE%E7%89%87.md)
