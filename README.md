@@ -5,7 +5,10 @@
 懒人江湖 - 一梦江湖免费辅助V1.0.1[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E6%87%92%E4%BA%BA%E6%B1%9F%E6%B9%96%20-%20%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9V1.0.1.exe)] 2020/03/06发布
 
 ## 使用说明
-懒人江湖V1.0.1[[使用说明]()]
+懒人江湖V1.0.1[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
+
+## 常见问题
+[在github使用说明页面看不到图片？ ](https://github.com/LazyBoy123/lrjh/blob/master/post/%E7%9C%8B%E4%B8%8D%E5%88%B0github%E7%9A%84%E5%9B%BE%E7%89%87.md)
 
 ## 免责声明
 0. 作者将本软件上传于github，唯一地址为https://github.com/LazyBoy123/lrjh， （下载方式详见地址介绍）。本软件仅供学习交流所用，禁止任何商业盈利性行为。
