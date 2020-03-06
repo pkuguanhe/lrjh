@@ -33,4 +33,5 @@
 3. 本软件不会对用户进行任何流氓式捆绑、升级，永久免费。同时请不要相信本软件出现的任何广告。
 
 微信打赏作者
+
 ![](https://github.com/LazyBoy123/lrjh/blob/master/img/use/ds1.jpg)
