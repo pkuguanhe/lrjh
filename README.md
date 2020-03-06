@@ -2,7 +2,7 @@
 懒人江湖 - 苟咸鱼以日常v1.0.2唯一下载渠道-解放双手，享受游戏乐趣
 
 ## 开发版本
-懒人江湖 - 苟咸鱼以日常v1.0.2[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E6%87%92%E4%BA%BA%E6%B1%9F%E6%B9%96%20-%20%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9V1.0.1.exe)] 2020/03/06 18:30发布 
+懒人江湖 - 苟咸鱼以日常v1.0.2[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E8%8B%9F%E5%92%B8%E9%B1%BC%E4%BB%A5%E6%97%A5%E5%B8%B8v1.0.2.exe)] 2020/03/06 18:30发布 
 
 懒人江湖 - 一梦江湖免费辅助V1.0.1[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E6%87%92%E4%BA%BA%E6%B1%9F%E6%B9%96%20-%20%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9V1.0.1.exe)] 2020/03/06 11:00发布
 
