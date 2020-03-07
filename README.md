@@ -2,6 +2,7 @@
 懒人江湖 - 苟咸鱼以日常 唯一下载渠道 - 解放双手，享受游戏乐趣
 
 ## 开发版本
+- 懒人江湖 - 苟咸鱼以日常v1.1.0[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E6%87%92%E4%BA%BA%E6%B1%9F%E6%B9%96%20-%20%E8%8B%9F%E5%92%B8%E9%B1%BC%E4%BB%A5%E6%97%A5%E5%B8%B8v1.0.4.exe)] 2020/03/07 21:36发布
 - 懒人江湖 - 苟咸鱼以日常v1.0.4[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E6%87%92%E4%BA%BA%E6%B1%9F%E6%B9%96%20-%20%E8%8B%9F%E5%92%B8%E9%B1%BC%E4%BB%A5%E6%97%A5%E5%B8%B8v1.0.4.exe)] 2020/03/07 12:48发布
 - 懒人江湖 - 苟咸鱼以日常v1.0.3[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E6%87%92%E4%BA%BA%E6%B1%9F%E6%B9%96%20-%20%E8%8B%9F%E5%92%B8%E9%B1%BC%E4%BB%A5%E6%97%A5%E5%B8%B8v1.0.3.exe)] 2020/03/07 01:56发布 
 - 懒人江湖 - 苟咸鱼以日常v1.0.2[[点击下载](https://github.com/LazyBoy123/lrjh/raw/master/%E8%8B%9F%E5%92%B8%E9%B1%BC%E4%BB%A5%E6%97%A5%E5%B8%B8v1.0.2.exe)] 2020/03/06 18:30发布 
@@ -11,6 +12,14 @@
 
 ## 更新说明
 “懒人江湖 - 一梦江湖免费辅助” 正式更名为 “懒人江湖 - 苟咸鱼以日常”
+
+#### v1.1.0更新
+
+1. 将手游模式与端游模式合并，所有任务皆为端游模式
+2. 极致优化绝学释放速度
+3. 修复自动华山论剑匹配与登剑阁匹配的bug
+4. “定点采集”改为“定点三线采集”
+5. 新增功能 - 江湖英雄榜5次
 
 #### v1.0.4更新
 
@@ -25,7 +34,8 @@
 
 
 ## 使用说明
-- 懒人江湖V1.0.4[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]（改动不大）
+- 懒人江湖V1.1.0[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
+- 懒人江湖V1.0.4[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
 - 懒人江湖V1.0.3[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)] 
 - 懒人江湖V1.0.2[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
 - 懒人江湖V1.0.1[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
