@@ -49,6 +49,8 @@
 
 
 ## 使用说明
+
+- 懒人江湖V1.1.1[[使用说明](https://github.com/LazyBoy123/lrjh/raw/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.docx)]
 - 懒人江湖V1.1.0[[使用说明](https://github.com/LazyBoy123/lrjh/raw/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.docx)]
 - 懒人江湖V1.0.4[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)]
 - 懒人江湖V1.0.3[[使用说明](https://github.com/LazyBoy123/lrjh/blob/master/post/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)] 
